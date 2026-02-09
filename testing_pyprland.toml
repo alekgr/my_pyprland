@@ -37,6 +37,7 @@ command = "kitty --class kitty-dropterm"
 class = "kitty-dropterm"
 size = "60% 50%"
 max_size = "100% 100%"
+unfocus = "hide"
 
 
 [scratchpads.ranger]
@@ -45,6 +46,7 @@ command = "kitty --class ranger  ranger"
 class = "ranger"
 size = "90% 80%"
 max_size = "100% 100%"
+unfocus = "hide"
 
 #[scratchpads.volume]
 #animation = "fromTop"
