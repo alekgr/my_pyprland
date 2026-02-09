@@ -54,6 +54,7 @@ command = "kitty --class='neomutt1' neomutt"
 class = "neomutt1"
 size = "60% 80%"
 max_size = "100% 100%"
+lazy = false
 unfocus = "hide"
 
 [scratchpads.ranger]
