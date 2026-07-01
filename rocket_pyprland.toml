@@ -57,10 +57,10 @@ max_size = "100% 100%"
 lazy = false
 unfocus = "hide"
 
-[scratchpads.ranger]
+[scratchpads.yazi]
 animation = "fromTop"
-command = "kitty --class ranger  ranger"
-class = "ranger"
+command = "kitty --class kitty-yazi  yazi"
+class = "kitty-yazi"
 size = "90% 80%"
 max_size = "100% 100%"
 unfocus = "hide"
